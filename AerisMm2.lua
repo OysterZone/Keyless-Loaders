@@ -1,6 +1,3 @@
--- Dеоbfuѕсаted Ԝіtһ LеаκD
--- https://leakd.fr
-
 if not game:IsLoaded() then
 	game.Loaded:Wait()
 end
@@ -4011,5 +4008,3 @@ if func() then
 	pcall(tbl.Step, "Interface")
 	pcall(tbl.Ready)
 end
-
--- https://leakd.fr
