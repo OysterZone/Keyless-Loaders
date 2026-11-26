@@ -1,8 +1,3 @@
--- ----------------------------------------------------
--- Dеоbfuѕсаtеԁ Ѕuссеѕsfullу Ву LеaκD
--- https://leakd.fr
--- ----------------------------------------------------
-
 getgenv().__RoChessSource = [[
 local RS = game:GetService('ReplicatedStorage')
 local UIS = game:GetService('UserInputService')
@@ -1359,4 +1354,3 @@ print('[RoChess Assistant] Loaded with saved settings. RightShift toggles UI; En
 
 ]]))()
 
--- https://leakd.fr
